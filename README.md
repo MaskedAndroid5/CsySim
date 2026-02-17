@@ -19,7 +19,7 @@ Features
 
 - v0.1 — Fast deterministic binding predictor (PAM + seed strictness + Gaussian distal penalty)  
 - v0.2 — Full segmental Monte Carlo simulator (directional unzipping, stall probabilities, interference proxy)  
-- v0.3-alpha —  
+- v0.2.2 — CsyZipper
   - Nearest-neighbor ΔG scoring for RNA:DNA hybrids (initiation + terminal penalties)  
   - Blended ΔG/Gaussian per-segment probabilities  
   - Structural notes linking mismatches to approximate Csy3 thumb-loop / contact residues  
